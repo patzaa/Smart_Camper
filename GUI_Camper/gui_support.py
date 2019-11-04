@@ -1,6 +1,3 @@
-#! /usr/bin/env python3
-# code by Vinzenz Felder/ Marius Schwab
-# Here are all elementary funktion for execution the main gui.py is pointing to the gui_support
 import os
 import sys
 
