@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-#  code Vinzenz Felder / Marius Schwab
-# main class for creating GUI --> hardware execution is done through gui_support.py 
-#import os
-
-#os.environ["DISPLAY"]= ":0"
-
 import smbus
 import sys
 import time
