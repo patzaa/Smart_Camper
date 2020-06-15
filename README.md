@@ -1,9 +1,12 @@
 
+AI enabled edge computing 
+============================
+_The Idea is to integrate 
 
 We are three students who thought about making a Prototype for a Camper automation, which connects different function of the Camper under on centralized system.
 the three students are: Marius Schwab, Daniel Patzer and Vinzenz Felder
 
-# Introduction
+#MVP
 This Project is called Camper Home Automation:
 
 In the Project we are using a 7” LED Touch panel to display sensor data and control outputs. Sensor data that will be displayed on the screen include two independent temperature measurements. The data will be displayed in number. For monitoring the temperature behavior over time. The GUI include Buttons to control a one channel relays to switch on led Lights or a Pump. Additional we integrated a clock with an alarm function to trigger time dependent events. 
