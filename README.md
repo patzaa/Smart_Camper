@@ -1,7 +1,7 @@
 
 AI enabled edge computing 
 ============================
-_The Idea is to integrate 
+_The Idea is to have a central device computing and automating.._  
 
 We are three students who thought about making a Prototype for a Camper automation, which connects different function of the Camper under on centralized system.
 the three students are: Marius Schwab, Daniel Patzer and Vinzenz Felder
